@@ -34,7 +34,7 @@ const Page = () => {
             'The maximum amount of pages per PDF-file.',
         },
         {
-          text: '2GB file size limit',
+          text: '16MB file size limit',
           footnote:
             'The maximum file size of a single PDF file.',
         },
@@ -64,7 +64,7 @@ const Page = () => {
             'The maximum amount of pages per PDF-file.',
         },
         {
-          text: '2GB file size limit',
+          text: '256MB file size limit',
           footnote:
             'The maximum file size of a single PDF file.',
         },
