@@ -16,11 +16,11 @@ export const PLANS = [
     name: 'Pro',
     slug: 'pro',
     quota: 50,
-    pagesPerPdf: 25,
+    pagesPerPdf: 150,
     price: {
       amount: 14,
       priceIds: {
-        test: 'price_1NuEwTA19umTXGu8MeS3hN8L',
+        test: 'price_1NwhtzK1720ZjWf2RhbWfV5x',
         production: '',
       },
     },
